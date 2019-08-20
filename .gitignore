@@ -1,0 +1,13 @@
+__pycache__/
+
+# Jupyter 
+*.ipynb_checkpoints
+
+# Pycharm
+*.idea
+
+# PyTorch ckpt
+*.tar
+
+# Tensorboard
+events.out.tfevents.*
